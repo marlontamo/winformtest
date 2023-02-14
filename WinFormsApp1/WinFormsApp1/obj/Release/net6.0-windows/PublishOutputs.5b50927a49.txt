@@ -1,0 +1,5 @@
+D:\microsoftC#\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.exe
+D:\microsoftC#\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.dll
+D:\microsoftC#\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.deps.json
+D:\microsoftC#\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.runtimeconfig.json
+D:\microsoftC#\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.pdb
